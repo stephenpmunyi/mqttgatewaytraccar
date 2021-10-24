@@ -8,6 +8,7 @@ Mqttgatewaytraccar uses a number of open source projects to work properly:
   
 
 *  [MQTT](https://www.npmjs.com/package/mqtt) - Node.JS client library for the MQTT protocol
+*  [Micro](https://www.npmjs.com/package/micro) - Micro — Asynchronous HTTP microservices
 
 # Setup and Starting via npm
 
