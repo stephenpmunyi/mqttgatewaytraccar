@@ -1,0 +1,9 @@
+version: '2.1'
+
+services:
+  mqttgatewaytraccar:
+    image: munyi/mqttgatewaytraccar
+    build: ./
+    container_name: traccarmqttgateway
+    ports:
+      - 8759:3000
