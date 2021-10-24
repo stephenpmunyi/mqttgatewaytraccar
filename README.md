@@ -35,8 +35,21 @@ On your Traccar Setup edit **conf/traccar.xml** and add forward
 
 <entry  key='forward.enable'>true</entry>
 <entry  key='forward.json'>true</entry>
-<entry  key='forward.url'>http://mqttgatewaytraccar_ip:47120/</entry>
+<entry  key='forward.url'>http://mqttgatewaytraccar_ip:8759/</entry>
 
 ```
 
 **And restart Traccar Instance**
+
+## Change Access Token to Id of Tracking Device
+
+![deviceidasaccesstoken](https://user-images.githubusercontent.com/43235624/138587119-71a02117-de51-42b3-88c9-a8439b568444.png)
+
+##Sample Telemetry
+
+![telemetrydata](https://user-images.githubusercontent.com/43235624/138587162-71e47010-d32a-45dd-8c83-62a3a3a8969f.png)
+
+
+
+
+
