@@ -50,6 +50,12 @@ On your Traccar Setup edit **conf/traccar.xml** and add forward
 
 ![telemetrydata](https://user-images.githubusercontent.com/43235624/138587162-71e47010-d32a-45dd-8c83-62a3a3a8969f.png)
 
+## Sample Mobile Dashboard
+
+![photo_2021-10-24_12-21-16](https://user-images.githubusercontent.com/43235624/138588109-4f9f1056-b063-4cb6-aaf3-0c1289abc888.jpg)
+
+## Sample Dashboard
+![smart tracking](https://user-images.githubusercontent.com/43235624/138588205-d6d1b648-a12b-4b81-87b6-51cb8c735959.png)
 
 
 
