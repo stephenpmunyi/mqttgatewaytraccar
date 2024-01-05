@@ -1,7 +1,7 @@
-# What is Mqttgatewaytraccar
+Mqttgatewaytraccar
   
 
-Mqttgatewaytraccar is a small Server written in NodeJs to use Traccar in other Programs. Written for PulseNetAI
+Mqttgatewaytraccar is a small Server written in NodeJs to use Traccar in other IoT Platforms such as Thingsboard
  
 
 Mqttgatewaytraccar uses a number of open source projects to work properly:
